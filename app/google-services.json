@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "155715271998",
+    "firebase_url": "https://professortimetable.firebaseio.com",
+    "project_id": "professortimetable",
+    "storage_bucket": "professortimetable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155715271998:android:65fb0ec393af3301",
+        "android_client_info": {
+          "package_name": "com.haran.professortimetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155715271998-jbl469eat1fuarhd5iiprk0vq1cslcuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haran.professortimetable",
+            "certificate_hash": "c054d46012fc95e4d3961394b9637f3b31c910e1"
+          }
+        },
+        {
+          "client_id": "155715271998-ap117vunjn3kvskomtqkf4533jc0ords.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB50KsW2PTBHcSOAz-09vYj9kD34AAmhnI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155715271998-ap117vunjn3kvskomtqkf4533jc0ords.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
